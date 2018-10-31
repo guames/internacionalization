@@ -1,9 +1,9 @@
 # internacionalization
-This project is a demo of internacionalization with spring-boot
-
-To test this project:
-
-1- Run your application.
-2- Acess Postman and do a Get request.
-3- Put in header of your request "Accept-Language" and your selected locale ex:"us".
-4- See result of request.
+<li>This project is a demo of internacionalization with spring-boot</li>
+<br />
+<li>To test this project:</li>
+<br />
+<li>1- Run your application.</li>
+<li>2- Acess Postman and do a Get request.</li>
+<li>3- Put in header of your request "Accept-Language" and your selected locale ex:"us".</li>
+<li>4- See result of request.</li>
