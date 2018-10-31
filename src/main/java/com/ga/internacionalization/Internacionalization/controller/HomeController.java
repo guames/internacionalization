@@ -15,7 +15,7 @@ public class HomeController {
 
     @GetMapping(path = "/hello")
     public String helloInternacionalized(
-            @RequestHeader(name = "Accept-Language", required = false) Locale locale){
+            @RequestHeader(name = "Accept-Language", required = false)Locale locale){
         return messageSource.getMessage("application.hello", null, locale);
     }
 
