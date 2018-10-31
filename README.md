@@ -1,4 +1,4 @@
-# internacionalization
+# Internacionalization
 <li>This project is a demo of internacionalization with spring-boot</li>
 <br />
 <li>To test this project:</li>
