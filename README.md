@@ -1,5 +1,5 @@
 # Internacionalization
-<li>This project is a demo of internacionalization with spring-boot</li>
+<li>This project as spring-boot to apply internacionaliation</li>
 <br />
 <li>To test this project:</li>
 <br />
